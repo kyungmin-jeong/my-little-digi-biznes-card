@@ -1,0 +1,39 @@
+.bd {
+    border: 3px solid lightyellow;
+}
+
+body {
+    margin: 20px;
+    
+}
+
+img {
+    width: 250px;
+    height: 180px;
+    margin: 5px 10px 5px 20px;
+}
+
+.main {
+    height: 200px;
+    width: 520px;
+    color: blueviolet;
+    margin: 5px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: powderblue;
+    border-bottom: 8px solid lightsalmon;
+    border-right: 6px solid plum;
+}
+
+.card {  
+    width: 240px;
+    justify-content: center;
+    font-family: "Brush Script Mt", cursive;
+    font-size: 20px;
+}
+
+.bd-radius {
+    border-radius: 15px;
+}
